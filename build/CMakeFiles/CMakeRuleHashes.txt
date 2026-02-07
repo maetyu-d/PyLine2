@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+c0352d7bea75319a606d9580fc95f07b PyLine2_artefacts/JuceLibraryCode/JuceHeader.h
+b6ed67051a7497c9ec4a3091973aa10e PyLine2_artefacts/JuceLibraryCode/PyLine2/PkgInfo
+e1d9addd5b81a3a1cdb927eb184337db TimelineSynth_artefacts/JuceLibraryCode/JuceHeader.h
+e2e9dbf95dc56428360ef63634e32d01 TimelineSynth_artefacts/JuceLibraryCode/TimelineSynth/PkgInfo
